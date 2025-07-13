@@ -85,6 +85,7 @@ public class WisataDetail extends WisataTanahLaut (
         }
     }
 
-
+Nama : Muhammad Fadil
+NPM : 2310010699
 
   
