@@ -75,7 +75,15 @@ public class WisataAlam {
      
     }
 
+package wisata.tanah.laut;
 
+//Inheritance
+public class WisataDetail extends WisataTanahLaut (
+
+    public WisataDetail (String Kecamatan) {
+        super (kecamatan);
+        }
+    }
 
 
 
