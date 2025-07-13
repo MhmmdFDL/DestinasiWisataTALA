@@ -1,9 +1,8 @@
-//Program Destinasi Wisata Tanah Laut
+Program Destinasi Wisata Tanah Laut
 
+    package wisata.tanah.laut;
 
-package wisata.tanah.laut;
-
-public class WisataTanahLaut {
+    public class WisataTanahLaut {
     //Atribut dan Encapsulation
     public String Kecamatan;
     
@@ -30,9 +29,9 @@ public class WisataTanahLaut {
 
 
 
-package wisata.tanah.laut;
-import java.util.Scanner;
-public class WisataAlam {
+    package wisata.tanah.laut;
+    import java.util.Scanner;
+    public class WisataAlam {
     public static void main(String[] args) {
     try{
         //IO
@@ -78,10 +77,10 @@ public class WisataAlam {
      
     }
 
-package wisata.tanah.laut;
+    package wisata.tanah.laut;
 
-//Inheritance
-public class WisataDetail extends WisataTanahLaut (
+    //Inheritance
+    public class WisataDetail extends WisataTanahLaut (
 
     public WisataDetail (String Kecamatan) {
         super (kecamatan);
